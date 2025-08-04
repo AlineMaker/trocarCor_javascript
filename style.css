@@ -1,0 +1,25 @@
+*{padding: 0;
+margin: 0%;
+box-sizing: border-box;
+}
+:root{
+    --bg-color : pink;
+}
+body{
+    height: 100vh;
+    display: grid;
+    place-content: center;
+    background-color: var(--bg-color);
+}
+.container{
+        display: grid;
+        gap: 12px;
+}
+.container input {
+    font-size: 2rem;
+    text-align: center;
+}
+
+.container button {
+    padding: 12px;
+}
