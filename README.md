@@ -25,4 +25,4 @@ style.css → define o estilo da página e a variável --bg-color.
 app.js → controla a lógica de interação (captura a cor digitada e altera o fundo).
 
 Autor:
-Aline Alves de Souza(www.linkedin.com/in/aline-alves-engenheira)
+Aline Alves de Souza (www.linkedin.com/in/aline-alves-engenheira)
